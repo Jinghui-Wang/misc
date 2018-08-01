@@ -1,2 +1,3 @@
-# misc
-Just for fun!
+## misc
+
+Just for my little experiments.
